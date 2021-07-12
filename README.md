@@ -15,10 +15,15 @@
 * 所有24小时动态壁纸均拥有5K(5760x3600)分辨率。
 * 每份24小时动态壁纸约包含26~33张图片。
 * 格式为.ddw。
+* 持续更新中...
 
 ## 使用方法
-1.下载并安装[WinDynamicDesktop](#WinDynamicDesktop)＆下载所选择的壁纸包。
-1.运行[WinDynamicDesktop](#WinDynamicDesktop)后在系统托盘中可以看到它,鼠标右键[WinDynamicDesktop](#WinDynamicDesktop)图标->选择壁纸。
+1. 下载并安装[WinDynamicDesktop](#WinDynamicDesktop)＆下载所选择的壁纸包
+1. 运行[WinDynamicDesktop](#WinDynamicDesktop)后在系统托盘中可以看到它,鼠标右键[WinDynamicDesktop](#WinDynamicDesktop)图标->选择主题![image](https://user-images.githubusercontent.com/74455258/125320553-6b3d0180-e36e-11eb-85f9-1365c9634f71.png)
+1. 选择左下角的"从文件导入..."![9(G%4RQTIN_X`)(GBQ9I1{H](https://user-images.githubusercontent.com/74455258/125321210-0930cc00-e36f-11eb-97c1-7129ac600ef0.png)
+1. 选择刚才下载的.ddw文件进行导入
+1. 最后应用即可  
+1. 配合免费软件[MyDockFinder](#MyDockFinder)使用效果更佳
 
 ## 主题列表
 
