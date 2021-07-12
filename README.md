@@ -1,5 +1,12 @@
 # 24Hour-Wallppe
-1.[主题列表](#WinDynamicDesktop)
+1. [使用方法](#使用方法)
+1. [主题列表](#主题列表)
+1. [已知问题](#已知问题)
+1. [声明](#声明)
+1. [WinDynamicDesktop](#WinDynamicDesktop)
+1. [MyDockFinder](#MyDockFinder)
+
+## 使用方法
 
 ## 主题列表
 
