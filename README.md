@@ -19,7 +19,8 @@
 
 ## 使用方法
 1. 下载并安装[WinDynamicDesktop](#WinDynamicDesktop)＆下载所选择的壁纸包
-1. 运行[WinDynamicDesktop](#WinDynamicDesktop)后在系统托盘中可以看到它,鼠标右键[WinDynamicDesktop](#WinDynamicDesktop)图标->选择主题![image](https://user-images.githubusercontent.com/74455258/125320553-6b3d0180-e36e-11eb-85f9-1365c9634f71.png)
+1. 运行[WinDynamicDesktop](#WinDynamicDesktop)后在系统托盘中可以看到它,鼠标右键[WinDynamicDesktop](#WinDynamicDesktop)图标->选择主题
+*  ![image](https://user-images.githubusercontent.com/74455258/125320553-6b3d0180-e36e-11eb-85f9-1365c9634f71.png)
 1. 选择左下角的"从文件导入..."![9(G%4RQTIN_X`)(GBQ9I1{H](https://user-images.githubusercontent.com/74455258/125321210-0930cc00-e36f-11eb-97c1-7129ac600ef0.png)
 1. 选择刚才下载的.ddw文件进行导入
 1. 最后应用即可  
