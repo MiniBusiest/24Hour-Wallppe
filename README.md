@@ -1,55 +1,57 @@
-# 主题列表
+# 24Hour-Wallppe
 
-## Alabama Hills(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125295880-49d11b00-e358-11eb-8ede-72b975153efe.png)
+## 主题列表
+
+### Alabama Hills(5K)
+* ![AlabamaHills](https://user-images.githubusercontent.com/74455258/125309073-09779a00-e364-11eb-9805-1ef26218f69c.jpg)
 * 大小:915.7MB
 * 
-## Alabama Hills Mix(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125296791-38d4d980-e359-11eb-9fed-c3b54e657713.png)
+### Alabama Hills Mix(5K)
+* ![AlabamaHillsMix](https://user-images.githubusercontent.com/74455258/125309582-768b2f80-e364-11eb-8013-557111f69649.jpg)
 * 大小:932.2MB
 * 
-## Amsterdam Rijksmuseum(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125297049-79ccee00-e359-11eb-9f21-886a4d79fb34.png)
+### Amsterdam Rijksmuseum(5K)
+* ![AmsterdamRijksmuseum](https://user-images.githubusercontent.com/74455258/125310172-f0231d80-e364-11eb-92f1-12581da57a50.jpg)
 * 大小:864.8MB
 * 
-## Auckland(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125297589-f069eb80-e359-11eb-834b-cf2c4625ed0d.png)
+### Auckland(5K)
+* ![Auckland](https://user-images.githubusercontent.com/74455258/125310499-37111300-e365-11eb-9211-283cc53fb66c.jpg)
 * 大小:808.8MB
 * 
-## Bristlecone Pine(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125298436-b4835600-e35a-11eb-866f-a0f2d99e6976.png)
+### Bristlecone Pine(5K)
+* ![BristleconePine](https://user-images.githubusercontent.com/74455258/125310772-763f6400-e365-11eb-8e2e-0702500f6d3d.jpg)
 * 大小:976MB
 * 
-## California Beach(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125298487-c238db80-e35a-11eb-931a-bb5a0beb8dc7.png)
+### California Beach(5K)
+* ![CaliforniaBeach](https://user-images.githubusercontent.com/74455258/125311092-bbfc2c80-e365-11eb-9269-8f2f056fdafc.jpg)
 * 大小:835.5MB
 *
-## Cape Lookout(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125298961-3d01f680-e35b-11eb-9e61-e7c98aa2c1af.png)
+### Cape Lookout(5K)
+* ![CapeLookout](https://user-images.githubusercontent.com/74455258/125311562-15645b80-e366-11eb-95d4-39a0ba490a49.jpg)
 * 大小:863.2MB
 *
-## Colorado Nature(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125299071-5dca4c00-e35b-11eb-8923-76ffcbc8f9cc.png)
+### Colorado Nature(5K)
+* ![ColoradoNature](https://user-images.githubusercontent.com/74455258/125312336-c3700580-e366-11eb-9bb1-cbd3c020564c.jpg)
 * 大小:987.8MB
-*
-## Earth ISS-1(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125299452-bf8ab600-e35b-11eb-9dc7-800110cf5b76.png)
+
+### Earth ISS-1(5K)
+* ![EarthISS132_9](https://user-images.githubusercontent.com/74455258/125312782-2eb9d780-e367-11eb-8c93-e36533fdc02d.jpg)
 * 大小:869MB
 *
-## Earth ISS-2(5K)
-* ![thumbnail](https://user-images.githubusercontent.com/74455258/125299635-e9dc7380-e35b-11eb-970d-bf6e755d4e94.png)
+### Earth ISS-2(5K)
+* ![EarthISS232_10](https://user-images.githubusercontent.com/74455258/125313026-6aed3800-e367-11eb-89ea-dd95566ee371.jpg)
 * 大小:683.8MB
   
-# 已知问题
+## 已知问题
 
-* 部分背景图片无法显示
+* 部分背景图片无法显示(重启电脑或过一段时间就行)
 
-# 声明
+## 声明
 
 * 图片均来源于互联网
 
 
-# WinDynamicDesktop
+## WinDynamicDesktop
 * ![select_theme](https://user-images.githubusercontent.com/74455258/125305747-31193300-e361-11eb-8e8a-cb071cd222b4.png)
 * 将 macOS Mojave 动态桌面功能移植到 Windows 10。可以在 GitHub 和 Microsoft 商店下载。
 
@@ -57,7 +59,7 @@
 <a href="//www.microsoft.com/store/apps/9nm8n7dq3z5f?cid=storebadge&ocid=badge"><img src="https://developer.microsoft.com/store/badges/images/English_get-it-from-MS.png" alt="Microsoft Store" width="142"/></a>
 
 
-# MyDockFinder
+## MyDockFinder
 * ![FDT(FA9LS}N8DRBAN_C~9VB](https://user-images.githubusercontent.com/74455258/125305128-b4865480-e360-11eb-855d-8148555a0d60.png)
 * 可以在 GitHub 和 [官方网站](https://www.mydockfinder.com/) 进行下载。
 
