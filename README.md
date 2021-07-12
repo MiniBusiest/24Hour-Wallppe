@@ -89,7 +89,7 @@
 
 
 ## MyDockFinder
-* ![125305128-b4865480-e360-11eb-855d-8148555a0d60](https://user-images.githubusercontent.com/74455258/125328163-93306300-e376-11eb-854e-f8a4119791d9.png)
+<a href="https://www.mydockfinder.com/">![125305128-b4865480-e360-11eb-855d-8148555a0d60](https://user-images.githubusercontent.com/74455258/125328163-93306300-e376-11eb-854e-f8a4119791d9.png)
 * 可以在 GitHub 和 [官方网站](https://www.mydockfinder.com/) 进行下载。
 
 <a href="https://github.com/mydockfinder/mydockfinder/releases"><img src="https://github.com/t1m0thyj/WinDynamicDesktop/blob/master/images/download_github.png?raw=true" alt="GitHub download" width="142"></a>
