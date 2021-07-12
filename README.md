@@ -98,5 +98,5 @@
 
 <a href="https://space.bilibili.com/44170352">![https___bucketeer-e05bbc84-baa3-437e-9518-adb32be77984 s3 amazonaws com_public_images_b2e77691-f265-49d3-ad4d-372a7b6cf3ee_805x400](https://user-images.githubusercontent.com/74455258/125327373-a0991d80-e375-11eb-9108-e24972579da0.png)</a>
 or
-<a href="E-Mail:MiniBusiest@qq.com">![1231](https://user-images.githubusercontent.com/74455258/125331157-320a8e80-e37a-11eb-92e6-41f92d8e3488.png)</a>
+![1231](https://user-images.githubusercontent.com/74455258/125331533-b230f400-e37a-11eb-8451-d2694c16add3.png):MiniBusiest@qq.com
 
