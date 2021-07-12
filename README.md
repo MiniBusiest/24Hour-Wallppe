@@ -12,6 +12,8 @@
 1. [MyDockFinder](#MyDockFinder)
 
 ## 简介
+* 总的来说,也算是一份桌面美化教程。
+* 所有24Hour-Wallppe免费下载。
 * 所有24小时动态壁纸均拥有5K(5760x3600)分辨率。
 * 每份24小时动态壁纸约包含26~33张图片。
 * 格式为.ddw。
@@ -91,3 +93,7 @@
 * 可以在 GitHub 和 [官方网站](https://www.mydockfinder.com/) 进行下载。
 
 <a href="https://github.com/mydockfinder/mydockfinder/releases"><img src="https://github.com/t1m0thyj/WinDynamicDesktop/blob/master/images/download_github.png?raw=true" alt="GitHub download" width="142"></a>
+
+##其他联系方式
+### [BiliBili](https://space.bilibili.com/44170352)
+### E-Mail:MiniBusiest@qq.com
