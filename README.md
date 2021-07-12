@@ -1,4 +1,9 @@
 # 24Hour-Wallppe
+
+## 更新时间(2021/07/13)
+
+## 前言
+1. [简介](#简介)
 1. [使用方法](#使用方法)
 1. [主题列表](#主题列表)
 1. [已知问题](#已知问题)
@@ -6,7 +11,14 @@
 1. [WinDynamicDesktop](#WinDynamicDesktop)
 1. [MyDockFinder](#MyDockFinder)
 
+## 简介
+* 所有24小时动态壁纸均拥有5K(5760x3600)分辨率。
+* 每份24小时动态壁纸约包含26~33张图片。
+* 格式为.ddw。
+
 ## 使用方法
+1.下载并安装[WinDynamicDesktop](#WinDynamicDesktop)＆下载所选择的壁纸包。
+1.运行[WinDynamicDesktop](#WinDynamicDesktop)后在系统托盘中可以看到它,鼠标右键[WinDynamicDesktop](#WinDynamicDesktop)图标->选择壁纸。
 
 ## 主题列表
 
