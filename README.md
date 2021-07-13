@@ -12,7 +12,7 @@
 1. [MyDockFinder](#MyDockFinder)
 
 ## 简介
-* 桌面美化类动态壁纸。
+* 有条件的请支持[原创作者们](https://windd.info/themes/)。
 * 所有24Hour-Wallppe免费下载。
 * 所有24小时动态壁纸均拥有5K(5760x3600)分辨率。
 * 每份24小时动态壁纸约包含26~33张图片。
