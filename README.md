@@ -71,6 +71,34 @@
 * ![EarthISS232_10](https://user-images.githubusercontent.com/74455258/125313026-6aed3800-e367-11eb-89ea-dd95566ee371.jpg)
 * 大小:683.8MB
   
+### Earth View(5K)
+* ![EarthView15_15](https://user-images.githubusercontent.com/74455258/125623182-e268927b-c3a6-493f-b71f-8a08e48255f0.jpg)
+* 大小:15.9MB
+
+### Grand Canyon(5K)
+* ![GrandCanyon29_10](https://user-images.githubusercontent.com/74455258/125623321-e4719c64-de6f-443a-9711-8c8999bcde7e.jpg)
+* 大小:812.7MB
+
+### Honolulu(5K)
+* ![Honolulu32_13](https://user-images.githubusercontent.com/74455258/125623454-08d0e8c2-7bda-4529-b029-9875b3cecfcd.jpg)
+* 大小:986.6MB
+
+### Iceland-1(5K)
+* ![Iceland32_10](https://user-images.githubusercontent.com/74455258/125623585-d2bc46e9-067f-4413-9ee7-cef66e14b7c9.jpg)
+* 大小:776.5MB
+
+### Iceland-2(5K)
+* ![Iceland33_12](https://user-images.githubusercontent.com/74455258/125623663-6839ceb6-86ef-474a-acac-977fbd197ec4.jpg)
+* 大小:867.5MB
+
+### Joshua Tree(5K)
+* ![JoshuaTree32_9](https://user-images.githubusercontent.com/74455258/125623759-ef575f39-ce8c-4ffd-b46b-93f837fbd12d.jpg)
+* 大小:1010.4MB
+
+### Joshua Tree Mix(5K)
+* ![JoshuaTreeMix32_14](https://user-images.githubusercontent.com/74455258/125623878-d939dc94-08ee-4c43-9818-8a93921f5b67.jpg)
+* 大小:954.5MB
+
 ## 已知问题
 
 * 有可能会有个别一两张背景图片无法显示的问题(重启电脑或过一段时间更换图纸就行)
