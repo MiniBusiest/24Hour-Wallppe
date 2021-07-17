@@ -35,71 +35,71 @@
 
 ### Alabama Hills(5K)
 * ![AlabamaHills](https://user-images.githubusercontent.com/74455258/125309073-09779a00-e364-11eb-9805-1ef26218f69c.jpg)
-* 大小:915.7MB
-* 
+* 大小:1081.8MB
+
 ### Alabama Hills Mix(5K)
 * ![AlabamaHillsMix](https://user-images.githubusercontent.com/74455258/125309582-768b2f80-e364-11eb-8013-557111f69649.jpg)
-* 大小:932.2MB
-* 
+* 大小:1165.8MB
+
 ### Amsterdam Rijksmuseum(5K)
 * ![AmsterdamRijksmuseum](https://user-images.githubusercontent.com/74455258/125310172-f0231d80-e364-11eb-92f1-12581da57a50.jpg)
-* 大小:864.8MB
-* 
+* 大小:1069.1MB
+
 ### Auckland(5K)
 * ![Auckland](https://user-images.githubusercontent.com/74455258/125310499-37111300-e365-11eb-9211-283cc53fb66c.jpg)
-* 大小:808.8MB
-* 
+* 大小:1053.8MB
+
 ### Bristlecone Pine(5K)
 * ![BristleconePine](https://user-images.githubusercontent.com/74455258/125310772-763f6400-e365-11eb-8e2e-0702500f6d3d.jpg)
-* 大小:976MB
-* 
+* 大小:1207.5MB
+
 ### California Beach(5K)
 * ![CaliforniaBeach](https://user-images.githubusercontent.com/74455258/125311092-bbfc2c80-e365-11eb-9269-8f2f056fdafc.jpg)
-* 大小:835.5MB
-*
+* 大小:984.8MB
+
 ### Cape Lookout(5K)
 * ![CapeLookout](https://user-images.githubusercontent.com/74455258/125311562-15645b80-e366-11eb-95d4-39a0ba490a49.jpg)
-* 大小:863.2MB
-*
+* 大小:1062.5MB
+
 ### Colorado Nature(5K)
 * ![ColoradoNature](https://user-images.githubusercontent.com/74455258/125312336-c3700580-e366-11eb-9bb1-cbd3c020564c.jpg)
-* 大小:987.8MB
+* 大小:1241.7MB
 
 ### Earth ISS-1(5K)
 * ![EarthISS132_9](https://user-images.githubusercontent.com/74455258/125312782-2eb9d780-e367-11eb-8c93-e36533fdc02d.jpg)
-* 大小:869MB
-*
+* 大小:1013MB
+
 ### Earth ISS-2(5K)
 * ![EarthISS232_10](https://user-images.githubusercontent.com/74455258/125313026-6aed3800-e367-11eb-89ea-dd95566ee371.jpg)
-* 大小:683.8MB
+* 大小:733.1MB
   
 ### Earth View(5K)
 * ![EarthView15_15](https://user-images.githubusercontent.com/74455258/125623182-e268927b-c3a6-493f-b71f-8a08e48255f0.jpg)
-* 大小:15.9MB
+* 大小:83.7MB
 
 ### Grand Canyon(5K)
 * ![GrandCanyon29_10](https://user-images.githubusercontent.com/74455258/125623321-e4719c64-de6f-443a-9711-8c8999bcde7e.jpg)
-* 大小:812.7MB
+* 大小:1005.1MB
 
 ### Honolulu(5K)
 * ![Honolulu32_13](https://user-images.githubusercontent.com/74455258/125623454-08d0e8c2-7bda-4529-b029-9875b3cecfcd.jpg)
-* 大小:986.6MB
+* 大小:1257.2MB
 
 ### Iceland-1(5K)
 * ![Iceland32_10](https://user-images.githubusercontent.com/74455258/125623585-d2bc46e9-067f-4413-9ee7-cef66e14b7c9.jpg)
-* 大小:776.5MB
+* 大小:899MB
 
 ### Iceland-2(5K)
 * ![Iceland33_12](https://user-images.githubusercontent.com/74455258/125623663-6839ceb6-86ef-474a-acac-977fbd197ec4.jpg)
-* 大小:867.5MB
+* 大小:1058.8MB
 
 ### Joshua Tree(5K)
 * ![JoshuaTree32_9](https://user-images.githubusercontent.com/74455258/125623759-ef575f39-ce8c-4ffd-b46b-93f837fbd12d.jpg)
-* 大小:1010.4MB
+* 大小:1267.5MB
 
 ### Joshua Tree Mix(5K)
 * ![JoshuaTreeMix32_14](https://user-images.githubusercontent.com/74455258/125623878-d939dc94-08ee-4c43-9818-8a93921f5b67.jpg)
-* 大小:954.5MB
+* 大小:1186.5MB
 
 ## 声明
 
