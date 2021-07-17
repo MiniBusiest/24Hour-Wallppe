@@ -2,7 +2,7 @@
 
 ## 更新时间(2021/07/17)持续更新中...
 
-<a href="https://github.com/MiniBusiest/24Hour-Wallppe/releases"><img src="https://img.shields.io/github/downloads/t1m0thyj/WinDynamicDesktop/total.svg?style=flat-square" alt="GitHub releases"></a>
+<a href="https://github.com/MiniBusiest/24Hour-Wallppe/releases"><img src="https://img.shields.io/github/downloads/MiniBusiest/24Hour-Wallppe/total.svg?style=flat-square" alt="GitHub releases"></a>
 
 ## 前言
 1. [简介](#简介)
