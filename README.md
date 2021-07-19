@@ -98,6 +98,22 @@
 * ![JoshuaTreeMix32_14](https://user-images.githubusercontent.com/74455258/125623878-d939dc94-08ee-4c43-9818-8a93921f5b67.jpg)
 * 大小:1186.5MB
 
+### Lake Taupo(5K)
+* ![LakeTaupo32_9](https://user-images.githubusercontent.com/74455258/126166168-9da2f80b-d50f-4406-be6d-344ac6941841.jpg)
+* 大小:1835.9MB
+
+### London(5K)
+* ![London33_25](https://user-images.githubusercontent.com/74455258/126166151-1bad4849-1775-4fce-9428-8bfc68f5dfa7.jpg)
+* 大小:1781.8MB
+
+### London Gherkin(5K)
+* ![LondonGherkin32_11](https://user-images.githubusercontent.com/74455258/126166119-fa52ff27-078b-4ab2-9f8d-a91015b3e035.jpg)
+* 大小:1847MB
+
+### Los Angeles(5K)
+* ![LosAngeles32_12](https://user-images.githubusercontent.com/74455258/126166103-4c355ba2-e65b-444a-a723-e8db213bff95.jpg)
+* 大小:1799.3MB
+
 ## 声明
 
 * 图片部分来源于互联网或自费购买
